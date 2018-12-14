@@ -17,6 +17,7 @@ public class AFrame extends JFrame {
 	JTextField applTextField;
 	String applTextStr;
 	AFrame aa;
+	CFrame cc;
 	/**
 	 * Launch the application.
 	 */

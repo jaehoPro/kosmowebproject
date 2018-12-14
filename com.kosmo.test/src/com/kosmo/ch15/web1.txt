@@ -1,0 +1,1395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
+ <head> 
+  <title>[방송 목록]</title> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"> 
+  <meta name="twitter:card" content="summary"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="viewport" content="width=device-width"> 
+  <meta name="naver-site-verification" content="b103fc9d6193ce7c65a6ad5a9fd971b64f43c1b5"> 
+  <link href="../img/comm/favicon.ico" rel="shortcut icon" type="image/x-icon"> 
+  <link rel="apple-touch-icon" href="/img/comm/favicon2.ico"> 
+  <link rel="stylesheet" type="text/css" href="../css/comm_n.css?v=201709081324"> 
+  <link rel="stylesheet" type="text/css" href="../css/news.css?v=20140821"> 
+  <link rel="stylesheet" type="text/css" href="../css/etc_n.css?v=20170406"> 
+  <link rel="stylesheet" type="text/css" href="../css/ad.css?v=20150212"> 
+  <link rel="stylesheet" type="text/css" href="../css/photo_n.css?v=20150212">
+  <script type="text/javascript" src="../_js/ytn.js?v=20180413"></script> 
+  <script type="text/javascript" src="../_js/jquery-1.8.3.min.js"></script> 
+  <script type="text/javascript" src="../_js/jquery.lazyloadxt.min.js?v=201704143"></script> 
+  <noscript> &lt;h2&gt; &nbsp;&nbsp;&nbsp;&nbsp;이 사이트의 기능을 모두 활용하기 위해서는 자바스크립트를 활성화 시킬 필요가 있습니다.&lt;br&gt; &nbsp;&nbsp;&nbsp;&nbsp; &lt;a href="http://www.enable-javascript.com/ko/" target="_blank" style="color:red"&gt;브라우저에서 자바스크립트를 활성화하는 방법을 참고 하세요.  
+  </noscript> 
+  <script type="text/javascript">_L('1406','L','');</script> 
+  <!-- //YTN --> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39886335-1', 'ytn.co.kr');
+  ga('send', 'pageview');
+
+</script> 
+  <!-- //YTN NEW--> 
+  <!--<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39886335-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>--> 
+  <!-- Dable 스크립트 시작 / 문의 support@dable.io --> 
+  <script>
+(function(d,a,b,l,e,_) {
+d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+})(window,document,'dable','script');
+dable('setService', 'ytn.co.kr');
+dable('sendLog');
+</script> 
+  <!-- Dable 스크립트 종료 / 문의 support@dable.io --> 
+  <style type="text/css">
+body {background:none;}
+/****************************헤더****************************/
+#clone  { display:block; z-index:999; position:fixed; width:100%; margin:0 auto; top: 0px;}
+#wrap {position: relative;} 
+#YTN_main_2017 .wrap {position: relative;overflow: hidden;min-width:990px;}
+#YTN_main_2017 .header {background:url('../img/main/top_bg.gif');background-repeat:repeat-x; background-size:1px 209px; height:209px;}
+#YTN_main_2017 .header_clone {}
+#YTN_main_2017 .total_bg { position:relative; height:210px;}
+#YTN_main_2017 .bg_clone { height:45px; background:#000;position:relative; }
+#YTN_main_2017 .gray_bg { height:37px; background:#DBDBDB;position:absolute; top:45px; width:100%}
+#YTN_main_2017 .total_bg .area_flex { position:relative;margin:0 auto;width:990px; height:100%;}
+#YTN_main_2017 .total_bg .area_flex .logo {position:relative; margin:0 auto; height:100%;}
+#YTN_main_2017 .total_bg .area_flex .logo h1 {position:absolute; top:50%; left:-2px; margin-top:-24px; background:url('../img/main/logo.png');background-repeat:no-repeat;width:201px;height:40px;}
+#YTN_main_2017 .logo .ytn_logo {display: block;overflow: hidden;width: 202px;height: 57px;background-position: 0 0;text-indent: 101%;white-space: nowrap;}
+#YTN_main_2017 .links {position: absolute; top:11px;left: -5px; zoom:1;}
+#YTN_main_2017 .links a {display:inline-block; margin:0 4px;letter-spacing:-1px;}
+#YTN_main_2017 .links .links_bar { background:url('../img/main/link_bar.gif')0 5px ;background-repeat:no-repeat; width:1px; height:13px; display:inline-block; }
+#YTN_main_2017 .links .barlast{ /*background:url('img/main/link_bar.gif')no-repeat 0 5px ; width:1px; height:13px; display:inline-block;*/ margin-right:125px}
+#YTN_main_2017 .links .familysite {border:1px solid #c7c7c7; display:inline-block; position: absolute;top:0;right:5px; width:115px}
+#YTN_main_2017 .ad_top {position:absolute; top:55px; right:0px;width:728px; height:90px; }
+
+/*네비게이션*/
+#YTN_main_2017 .main_navi {position:relative; margin:0 auto; width:990px; zoom: 1;margin-top: -52px; letter-spacing:-1px}
+#YTN_main_2017 .main_navi .menu01 {position:absolute; top:2px; left:5px}/*뉴스*/
+#YTN_main_2017 .main_navi .menu02 {position:absolute; top:2px; left:60px}/*영상콕*/
+#YTN_main_2017 .main_navi .menu03 {position:absolute; top:2px; left:130px}/*프로그램*/
+#YTN_main_2017 .main_navi .menu04 {position:absolute; top:2px; left:215px}/*연예스타일*/
+#YTN_main_2017 .main_navi .menu05 {position:absolute; top:2px; left:330px}/*스포츠*/
+#YTN_main_2017 .main_navi .menu06 {position:absolute; top:2px; left:405px}/*헬스라이프*/
+#YTN_main_2017 .main_navi .menu07 {position:absolute; top:2px; left:515px}/*레저*/
+#YTN_main_2017 .main_navi .menu08 {position:absolute; top:2px; left:575px}/*제보영상*/
+
+#YTN_main_2017 .main_navi .r_menu01 {position:absolute; top:2px; right:154px}/*라이브*/
+#YTN_main_2017 .main_navi .r_menu02 {position:absolute; top:2px; right:102px}/*편성표*/
+#YTN_main_2017 .main_navi .r_menu03 {position:absolute; top:2px; right:35px}/*다시보기*/
+#YTN_main_2017 .main_navi .r_menu04 {position:absolute; top:2px; right:0px}/*서치*/
+/*서치바*/
+#YTN_main_2017 .search {float:right;z-index:9999; position:absolute; right:30px; top:12px }
+#YTN_main_2017 .search .searchTerm {width:230px;height: 27px;padding-left: 10px;background: #fff;border: 0;font-size: 12px;line-height: 30px;color: #b5b5b5;}
+#YTN_main_2017 .search .searchBtn {width:36px;height:27px;margin-right: -1px;background: url('../img/main/icon_search_01.gif');background-repeat:no-repeat;
+								   border: 0;font-size: 0;line-height: 0;text-indent: -9999px;overflow: hidden;cursor: pointer; position: absolute;top:0px;right: -35px;}
+#YTN_main_2017 .search input {vertical-align: middle;}
+
+/*네비게이션 > 메인타이틀*/
+#YTN_main_2017 .main_navi .m_tit > a {font-size:15px; font-weight:bold; color:#fff; letter-spacing:-1.5px}
+#YTN_main_2017 .main_navi .m_tit_hover > a {font-size:15px; font-weight:bold; color:#67d2ff;} 
+#YTN_main_2017 .main_navi .left_menu .m_menu > li{float:left; padding-top:14px;padding-left: 4px;zoom:1;}
+#YTN_main_2017 .main_navi .right_menu .m_menu > li{float:right; padding-top:14px;padding-left: 4px;zoom:1;}
+#YTN_main_2017 .main_navi .r_menu01 a {display:inline-block; padding-top:2px}/*라이브 아이콘 이미지*/
+#YTN_main_2017 .main_navi .r_menu04 a {display:inline-block; padding-top:2px}/*써치 아이콘 이미지*/
+/*네비게이션 > 서브타이틀*/
+#YTN_main_2017 .main_navi .m_menu li > ul {background:#dbdbdb;width:100%; }
+#YTN_main_2017 .main_navi .m_menu li ul{width: 990px;position: absolute;top:49px;z-index: 99998;height:35px; margin-left:-9px }
+#YTN_main_2017 .main_navi .m_menu li ul li {float:left; z-index: 99999;display: inline-block; top: 5px;left: 10px;position:relative; margin-right:18px; }
+#YTN_main_2017 .main_navi .m_menu li ul li a {color:#222 !important; display:inline-block; font-size:14px;line-height:18px;background:#DBDBDB; font-weight:bold; }
+#YTN_main_2017 .main_navi .m_menu li ul li a:hover {padding-bottom:8px;  text-decoration:none;border-bottom:4px solid #1C9DE9; color:#0d5885 !important;background:#DBDBDB;}
+#YTN_main_2017 .main_navi .m_menu .sub_hover {padding-bottom:8px; border-bottom:4px solid #1C9DE9; text-decoration:none;border-bottom:4px solid #1C9DE9; color:#0d5885 !important;background:#DBDBDB;}
+
+/*메뉴 표시 아이콘*/
+#YTN_main_2017 .main_navi .m_menu .menu01_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu02_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu03_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu04_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu05_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu06_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu07_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#YTN_main_2017 .main_navi .m_menu .menu08_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+/**서브GNB 배경 바 (width 100% 회색바)**/
+#YTN_main_2017 .w_bar {position: relative; width:100%; height:35px;margin-top:0;z-index: 999;background: #dbdbdb; margin-bottom:5px;}
+
+/******************************복제*******************************/
+/*로고*/
+#clone  { display:block; z-index:999; position:fixed; width:100%; margin:0 auto; top: 0px;}
+#clone .bg_clone .area_flex { position:relative;margin:0 auto;width:990px; height:100%;}
+#clone .bg_clone .area_flex .logo_clone {position:relative; margin:0 auto; height:45px; background:#000;}
+#clone .bg_clone .area_flex .logo_clone h1 {position:absolute; top:-7px;left:-2px; 
+													background:url('../img/main/small_logo.png');background-repeat:no-repeat;width:120px;height:26px;}
+#clone .bg_clone .area_flex .logo_clone h1 a {display:inline-block; width: 120px;height: 32px;}
+/*네비게이션*/
+#clone .header_clone .navi_clone {position:relative; margin:0 auto; width:990px; zoom: 1;letter-spacing:-1px; margin-top:-50px; }
+#clone .header_clone .navi_clone a {font-size:14px !important;}
+#clone .header_clone .navi_clone a:hover {text-decoration:none;} 
+#clone .header_clone .navi_clone .menu01 {position:absolute; top:2px; left:140px}/*뉴스*/
+#clone .header_clone .navi_clone .menu02 {position:absolute; top:2px; left:190px}/*영상콕*/
+#clone .header_clone .navi_clone .menu03 {position:absolute; top:2px; left:255px}/*프로그램*/
+#clone .header_clone .navi_clone .menu04 {position:absolute; top:2px; left:334px}/*연예스타일*/
+#clone .header_clone .navi_clone .menu05 {position:absolute; top:2px; left:438px}/*스포츠*/
+#clone .header_clone .navi_clone .menu06 {position:absolute; top:2px; left:505px}/*헬스라이프*/
+#clone .header_clone .navi_clone .menu07 {position:absolute; top:2px; left:600px}/*레저*/
+#clone .header_clone .navi_clone .menu08 {position:absolute; top:2px; left:650px}/*제보영상*/
+#clone .header_clone .navi_clone .r_menu01 {position:absolute; top:2px; right:154px}/*라이브*/
+#clone .header_clone .navi_clone .r_menu02 {position:absolute; top:2px; right:102px}/*편성표*/
+#clone .header_clone .navi_clone .r_menu03 {position:absolute; top:2px; right:35px}/*다시보기*/
+#clone .header_clone .navi_clone .r_menu04 {position:absolute; top:2px; right:0px}/*서치*/
+/*서치바*/
+#clone .header_clone .navi_clone .search {float:right;z-index:9999; position:absolute; right:30px; top:12px }
+#clone .header_clone .navi_clone .search .searchTerm {width:230px;height: 27px;padding-left: 10px;background: #fff;border: 0;font-size: 12px;line-height: 30px;color: #b5b5b5;}
+#clone .header_clone .navi_clone .search .searchBtn {width:36px;height:27px;margin-right: -1px;background: url('../img/main/icon_search_01.gif');background-repeat:no-repeat;
+								   border: 0;font-size: 0;line-height: 0;text-indent: -9999px;overflow: hidden;cursor: pointer; position: absolute;top:0px;right: -35px;}
+#clone .header_clone .navi_clone .search input {vertical-align: middle;}
+
+/*네비게이션 > 메인타이틀*/
+#clone .header_clone .navi_clone .m_tit > a {font-size:15px; font-weight:bold; color:#fff; letter-spacing:-1.5px}
+#clone .header_clone .navi_clone .m_tit_hover > a {font-size:15px; font-weight:bold; color:#67d2ff;} 
+#clone .header_clone .navi_clone .left_menu .m_menu > li{float:left; padding-top:14px;padding-left: 4px;zoom:1;}
+#clone .header_clone .navi_clone .right_menu .m_menu > li{float:right; padding-top:14px;padding-left: 4px;zoom:1;}
+#clone .header_clone .navi_clone .r_menu01 a {display:inline-block; padding-top:2px}/*라이브 아이콘 이미지*/
+#clone .header_clone .navi_clone .r_menu04 a {display:inline-block; padding-top:2px}/*써치 아이콘 이미지*/
+/*네비게이션 > 서브타이틀*/
+#clone .header_clone .navi_clone .m_menu li > ul {background:#dbdbdb;width:100%; }
+#clone .header_clone .navi_clone .m_menu li ul{width: 990px;position: absolute;top: 48px;z-index: 99998;height:37px; margin-left:-9px }
+#clone .header_clone .navi_clone .m_menu li ul li {float:left; z-index: 99999;display: inline-block; position: absolute;top: 5px;left: 10px;position:relative; margin-right:18px; }
+#clone .header_clone .navi_clone .m_menu li ul li a {color:#222 !important; display:inline-block; font-size:14px;display:inline-block;	 background:#DBDBDB; font-weight:bold;  }
+#clone .header_clone .navi_clone .m_menu li ul li a:hover {padding-bottom:9px; border-bottom:4px solid #1C9DE9; text-decoration:none;border-bottom:4px solid #1C9DE9; color:#0d5885 !important;background:#DBDBDB;}
+
+/*메뉴 표시 아이콘*/
+#clone .header_clone .navi_clone .m_menu .menu01_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu02_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu03_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu04_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu05_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu06_hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .navi_clone .m_menu .menu07 > a:hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+#clone .header_clone .navi_clone .m_menu .menu08 > a:hover {background:url('../img/main/tip_ico.png') center bottom ;background-repeat:no-repeat;background-size:20px 10px; padding-bottom:16px;display:inline-block; }
+/**서브GNB 배경 바 (width 100% 회색바)**/
+#clone .w_bar {position: relative; width:100%; height:38px;margin-top:15px;z-index: 999;background: #dbdbdb; margin-bottom:5px}
+</style> 
+ </head> 
+ <body> 
+  <div id="YTN_main_2017" class="wrap"> 
+   <div class="header"> 
+    <div class="total_bg"> 
+     <div class="area_flex"> 
+      <div class="logo YTN_CSA_logo"> 
+       <h1><a href="http://www.ytn.co.kr"><span class="ytn_logo">YTN 로고</span></a></h1> 
+      </div>
+      <!-- //logo --> 
+      <div class="YTN_CSA_login links"> 
+       <a href="https://secure.ytn.co.kr/member2/login.php?r_url=" id="loginChk1">로그인</a> 
+       <span class="links_bar"></span> 
+       <a href="https://secure.ytn.co.kr/member2/join.php?r_url=" id="loginChk2">회원가입</a> 
+       <span class="links_bar"></span> 
+       <a href="http://tour.ytn.co.kr/#infor" target="_blank">견학신청</a> 
+       <span class="links_bar"></span> 
+       <a href="http://www.ytn.co.kr/new_media/index.html" target="_blank"><b style="color:#1C9DE9">뉴미디어 리터러시</b></a> 
+       <span class="barlast"></span> 
+       <form action="" method="" class="clearfix" style="dispaly:inline"> 
+        <select class="select familysite" name="exp2" onchange="window.open(this.value)"> <option value="">Family site</option> <option value="http://science.ytn.co.kr/">YTN 사이언스</option> <option value="http://radio.ytn.co.kr">YTN 라디오</option> <option value="http://life.ytn.co.kr">YTN 라이프</option> <option value="http://dmb.ytn.co.kr">YTN DMB</option> <option value="http://ytn.co.kr/ytnkorean">YTN 월드ㆍ코리안</option> <option value="http://www.ytnplus.co.kr">YTN PLUS</option> <option value=" http://www.seoultower.co.kr">남산서울타워</option> </select> 
+       </form> 
+      </div>
+      <!-- //links --> 
+      <script type="text/javascript">
+				//<![CDATA[
+				if(get_cookie("L_ENC")){
+					$("#loginChk1").text("로그아웃");
+					$("#loginChk2").text("회원정보변경");
+					$("#loginChk1").attr("href", "https://secure.ytn.co.kr/member2/logout_exe.php?r_url=");
+					$("#loginChk2").attr("href", "https://secure.ytn.co.kr/member2/member_edit.php?r_url=");
+				}
+				//]]>
+				</script> 
+      <div class="ad_top"> 
+       <iframe name="AdtopBanner" frameborder="0" scrolling="no" style="width:728px;height:100%;border:none;border-bottom:1px solid #e1e1e1;" title="상단배너" src="/inc_banner/AdServerChange.php?n=3"></iframe> 
+      </div> 
+     </div>
+     <!-- //area_flex --> 
+    </div>
+    <!-- //total_bg --> 
+    <!-- 네비게이션 --> 
+    <div class="main_navi navi_clone"> 
+     <div class="left_menu"> 
+      <ul class="m_menu"> 
+       <li class="menu01 m_tit YTN_CSA_nav2_2"><a href="http://www.ytn.co.kr/" onmouseover="gnbSubMenu('sub_1');">뉴스</a> 
+        <ul class="sub_gnb_box" id="sub_1" style="display:none"> 
+         <li class="sub01 YTN_CSA_nav3_1"><a id="n0111" href="http://www.ytn.co.kr/news/news_quick.html">속보</a></li> 
+         <li class="sub02 YTN_CSA_nav3_2"><a id="n0101" href="http://www.ytn.co.kr/news/news_list_0101.html">정치</a></li> 
+         <li class="sub03 YTN_CSA_nav3_3"><a id="n0102" href="http://www.ytn.co.kr/news/news_list_0102.html">경제</a></li> 
+         <li class="sub04 YTN_CSA_nav3_4"><a id="n0103" href="http://www.ytn.co.kr/news/news_list_0103.html">사회</a></li> 
+         <li class="sub05 YTN_CSA_nav3_11"><a id="n0115" href="http://www.ytn.co.kr/news/news_list_0115.html">전국</a></li> 
+         <li class="sub06 YTN_CSA_nav3_12"><a id="n0106" href="http://www.ytn.co.kr/news/news_list_0106.html">문화</a></li> 
+         <li class="sub07 YTN_CSA_nav3_5"><a id="n0105" href="http://www.ytn.co.kr/news/news_list_0105.html">과학</a></li> 
+         <li class="sub08 YTN_CSA_nav3_7"><a id="n0104" href="http://www.ytn.co.kr/news/news_list_0104.html">국제</a></li> 
+         <li class="sub09 YTN_CSA_nav3_8"><a id="nweather" href="http://www.ytn.co.kr/weather/area_weather.php">날씨</a></li> 
+         <li class="sub10 YTN_CSA_nav3_15"><a id="nhancut" href="http://www.ytn.co.kr/news/news_list_hancut.html">한컷뉴스</a></li> 
+         <li class="sub11"><a id="nrColumn" href="http://www.ytn.co.kr/news/news_list.php?s_mcd=rColumn">기자칼럼</a></li> 
+         <li class="sub12"><a id="ndJournalism" href="http://www.ytn.co.kr/video/video_list_dJournalism.html">데이터저널리즘</a></li> 
+        </ul> </li> 
+       <li class="menu02 m_tit YTN_CSA_nav2_3"><a href="http://www.ytn.co.kr/video/video_main.html" onmouseover="gnbSubMenu('sub_2');">영상콕</a> 
+        <ul class="sub_gnb_box" id="sub_2" style="display:none"> 
+         <li><a id="nFVideo" href="http://www.ytn.co.kr/video/video_list_FVideo.html">지구촌 생생영상</a></li> 
+         <li><a id="ngoodNews" href="http://www.ytn.co.kr/video/video_list_goodNews.html">좋은뉴스</a></li> 
+         <li><a id="nS0003" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=S0003">팔팔영상</a></li> 
+         <li><a id="nTrack" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=Caption">자막뉴스</a></li> 
+         <li><a id="nnFact" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=nFact">취재N팩트</a></li> 
+         <li><a id="nInstant" href="http://www.ytn.co.kr/video/video_list.php?s_mcd=Instant">인스턴트 비디오</a></li> 
+        </ul> </li> 
+       <li class="menu03 m_tit YTN_CSA_nav2_10"><a href="http://www.ytn.co.kr/program/program_main.html" onmouseover="gnbSubMenu('sub_3');">프로그램</a> 
+        <ul class="sub_gnb_box" id="sub_3" style="display:none"> 
+         <li><a href="http://www.ytn.co.kr/program/program_intro.php?s_mcd=0481" target="_top" class="navinews1">국민신문고</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list_0301.html" target="_top" class="navinews1">현장생중계</a></li> 
+         <li><a href="http://www.ytn.co.kr/news/news_night_list.php" target="_top" class="navinews1">뉴스나이트</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list_0465.html" target="_top" class="navinews1">YTN 스페셜</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0496" target="_top" class="navinews1">시사 안드로메다</a></li> 
+         <li><a href="http://www.ytn.co.kr/global_korean/global_main.html" target="_top" class="navinews1">글로벌코리안</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0492" target="_top" class="navinews1">구석구석 코리아</a></li> 
+         <li><a href="http://www.ytn.co.kr/program/program_list_0948.html" target="_top" class="navinews1">뉴스인</a></li> 
+        </ul> </li> 
+       <li class="menu04 m_tit YTN_CSA_nav2_11"><a href="http://www.ytn.co.kr/photo/photo_main.html" onmouseover="gnbSubMenu('sub_4');">연예ㆍ스타일</a> 
+        <ul class="sub_gnb_box" id="sub_4" style="display:none"> 
+         <li><a id="photo_1406" href="http://www.ytn.co.kr/photo/photo_list_1406.html">방송</a></li> 
+         <li><a id="photo_1408" href="http://www.ytn.co.kr/photo/photo_list_1408.html">음악</a></li> 
+         <li><a id="photo_1407" href="http://www.ytn.co.kr/photo/photo_list_1407.html">영화</a></li> 
+         <li><a id="photo_0122" href="http://www.ytn.co.kr/photo/photo_list_0122.html">패션&amp;뷰티</a></li> 
+         <li><a id="photo_photo_gallery" href="http://www.ytn.co.kr/photo/photo_list_gallery.html">포토</a></li> 
+         <li><a id="photo_0109" href="http://www.ytn.co.kr/news/news_list_0109.html">SNS세상</a></li> 
+         <li><a href="http://respect.ytn.co.kr" target="_blank">리스펙트 프로젝트</a></li> 
+        </ul> </li> 
+       <li class="menu05 m_tit YTN_CSA_nav2_12"><a href="http://www.ytn.co.kr/photo/sports_main.html" onmouseover="gnbSubMenu('sub_5');">스포츠</a> 
+        <ul class="sub_gnb_box" id="sub_5" style="display:none"> 
+         <li><a id="photo_9901" href="http://www.ytn.co.kr/photo/sports_list_9901.html">야구</a></li> 
+         <li><a id="photo_9902" href="http://www.ytn.co.kr/photo/sports_list_9902.html">축구</a></li> 
+         <li><a id="photo_9903" href="http://www.ytn.co.kr/photo/sports_list_9903.html">골프</a></li> 
+         <li><a id="photo_9904" href="http://www.ytn.co.kr/photo/sports_list_9904.html">농구&amp;배구</a></li> 
+         <li><a id="photo_9905" href="http://www.ytn.co.kr/photo/sports_list_9905.html">스포츠종합</a></li> 
+         <li><a href="http://spoon.ytn.co.kr/" target="_blank"><img src="http://www.ytn.co.kr/img/comm/spoon_logo_r1.png" alt="스푼피드로고" width="90px" height="16px" style="display:inline-block;    padding-top: 3px; "></a></li> 
+        </ul> </li> 
+       <li class="menu06 m_tit YTN_CSA_nav2_14"><a href="http://www.ytn.co.kr/health_life/health_main.html" onmouseover="gnbSubMenu('sub_6');">헬스+라이프</a> 
+        <ul class="sub_gnb_box" id="sub_6" style="display:none"> 
+         <li><a id="n011801" href="http://www.ytn.co.kr/health_life/health_life_list_011801.html">health+life</a></li> 
+         <li><a id="n011901" href="http://www.ytn.co.kr/health_life/health_life_list_011901.html">건강</a></li> 
+         <li><a id="n0127" href="http://www.ytn.co.kr/health_life/health_life_list_0127.html">리더스 인터뷰</a></li> 
+         <li><a id="n0123" href="http://www.ytn.co.kr/health_life/health_life_list_0123.html">인물</a></li> 
+         <li><a id="n0124" href="http://www.ytn.co.kr/health_life/health_life_list_0124.html">칼럼</a></li> 
+         <li><a id="n0125" href="http://www.ytn.co.kr/health_life/health_life_list_0125.html">정보광장</a></li> 
+        </ul> </li> 
+       <li class="menu07 m_tit YTN_CSA_nav2_15"><a href="http://www.ytn.co.kr/health_life/leisure_main.html" onmouseover="gnbSubMenu('sub_7');">레저</a> 
+        <ul class="sub_gnb_box" id="sub_7" style="display:none"> 
+         <li><a id="n012001" href="http://www.ytn.co.kr/health_life/health_life_list_012001.html">낚시</a></li> 
+         <li><a id="n0126" href="http://www.ytn.co.kr/health_life/health_life_list_0126.html">여행</a></li> 
+         <li><a id="n0128" href="http://www.ytn.co.kr/health_life/health_life_list_0128.html">건축&amp;디자인</a></li> 
+         <li><a id="n0121" href="http://www.ytn.co.kr/health_life/fortune_list.html">운세</a></li> 
+        </ul> </li> 
+       <li class="menu08 m_tit YTN_CSA_nav2_9"><a href="http://mj.ytn.co.kr/" onmouseover="gnbSubMenu('sub_8');">제보영상</a> 
+        <ul class="sub_gnb_box" id="sub_8" style="display:none"> 
+         <li><a href="http://mj.ytn.co.kr/mj/mj_write_main.php">제보하기</a></li> 
+         <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=popular">제보랭킹</a></li> 
+         <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=theme">최신제보</a></li> 
+         <li><a href="http://www.ytn.co.kr/video/video_list_jebo.html">제보영상</a></li> 
+        </ul> </li> 
+      </ul> 
+     </div>
+     <!-- //left_menu --> 
+     <div class="clearfix"></div> 
+     <div class="right_menu"> 
+      <ul class="m_menu"> 
+       <li class="r_menu01 YTN_CSA_nav2_1"><a href="http://www.ytn.co.kr/_hd/hd_live.html"><img src="../img/main/icon_live.gif" alt="라이브"></a></li> 
+       <li class="r_menu02 m_tit YTN_CSA_nav2_13"><a href="http://www.ytn.co.kr/service/schedule.php">편성표</a></li> 
+       <li class="r_menu03 m_tit YTN_CSA_nav2_16"><a href="http://www.ytn.co.kr/program/replay_main.php">다시보기</a></li> 
+       <li class="r_menu04 YTN_CSA_nav2_17"><a href="#" onclick="$('.search').show();return false;"><img src="../img/main/icon_search.gif" alt="서치"></a> 
+        <!-- 돋보기 클릭 시, 나타나는 검색 바 --> 
+        <div class="search" id="search" style="display:none"> 
+         <form name="web_search" target="_top" action="http://www.ytn.co.kr/search/?" method="get" onsubmit="return search(this)"> 
+          <fieldset> 
+           <legend>통합검색</legend> 
+           <span class="InputOutline"> <input name="q" id="q" type="text" placeholder="검색어를 입력하세요." class="searchTerm" title="검색어 입력" style="position:relative"> <img src="../img/main/close_btn.jpg" alt="닫기버튼" style="display:inline-block; position:absolute; right:5px; top:4px" onclick="$('.search').hide();"></span> 
+           <input type="submit" alt="검색" title="검색" class="searchBtn" value="검색"> 
+          </fieldset> 
+         </form> 
+        </div>
+        <!-- //검색바 여기까지 --> </li> 
+      </ul> 
+     </div>
+     <!-- //right_menu --> 
+    </div>
+    <!-- //main_navi --> 
+   </div>
+   <!-- //header --> 
+   <div class="w_bar"></div> 
+   <!-- //서브 GNB 배경라인 (회색바) --> 
+   <!----> 
+   <!--한줄 GNB------------------------------------------------------> 
+   <!----> 
+   <div id="clone" class="clone01" style="display:none"> 
+    <div class="header_clone"> 
+     <div class="bg_clone"> 
+      <span id="sub_bar" class="gray_bg" style="display:none"></span>
+      <!-- 서브 gnb배경 (회색) --> 
+      <div class="area_flex"> 
+       <div class="logo_clone YTN_CSA_logo"> 
+        <h1><a href="http://www.ytn.co.kr"><span class="ytn_logo"></span></a></h1> 
+       </div>
+       <!-- //logo --> 
+      </div>
+      <!-- //area_flex --> 
+     </div>
+     <!-- //total_bg --> 
+     <!-- 네비게이션 --> 
+     <div class="navi_clone"> 
+      <div class="left_menu"> 
+       <ul class="m_menu"> 
+        <li class="menu01 m_tit YTN_CSA_nav2_2"><a href="http://www.ytn.co.kr/" onmouseover="gnbSubMenu('sub2_1');">뉴스</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_1"> 
+          <li class="sub01 YTN_CSA_nav3_1"><a href="http://www.ytn.co.kr/news/news_quick.html">속보</a></li> 
+          <li class="sub02 YTN_CSA_nav3_2"><a href="http://www.ytn.co.kr/news/news_list_0101.html">정치</a></li> 
+          <li class="sub03 YTN_CSA_nav3_3"><a href="http://www.ytn.co.kr/news/news_list_0102.html">경제</a></li> 
+          <li class="sub04 YTN_CSA_nav3_4"><a href="http://www.ytn.co.kr/news/news_list_0103.html">사회</a></li> 
+          <li class="sub05 YTN_CSA_nav3_11"><a href="http://www.ytn.co.kr/news/news_list_0115.html">전국</a></li> 
+          <li class="sub06 YTN_CSA_nav3_12"><a href="http://www.ytn.co.kr/news/news_list_0106.html">문화</a></li> 
+          <li class="sub07 YTN_CSA_nav3_5"><a href="http://www.ytn.co.kr/news/news_list_0105.html">과학</a></li> 
+          <li class="sub08 YTN_CSA_nav3_7"><a href="http://www.ytn.co.kr/news/news_list_0104.html">국제</a></li> 
+          <li class="sub09 YTN_CSA_nav3_8"><a href="http://www.ytn.co.kr/weather/area_weather.php">날씨</a></li> 
+          <li class="sub10 YTN_CSA_nav3_15"><a href="http://www.ytn.co.kr/news/news_list_hancut.html">한컷뉴스</a></li> 
+          <li class="sub11"><a href="http://www.ytn.co.kr/news/news_list.php?s_mcd=rColumn">기자칼럼</a></li> 
+          <li class="sub12"><a href="http://www.ytn.co.kr/video/video_list_dJournalism.html">데이터저널리즘</a></li> 
+         </ul> </li> 
+        <li class="menu02 m_tit YTN_CSA_nav2_3"><a href="http://www.ytn.co.kr/video/video_main.html" onmouseover="gnbSubMenu('sub2_2');">영상콕</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_2"> 
+          <li><a href="http://www.ytn.co.kr/video/video_list_FVideo.html">지구촌 생생영상</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list_goodNews.html">좋은뉴스</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list.php?s_mcd=S0003">팔팔영상</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list.php?s_mcd=Caption">자막뉴스</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list.php?s_mcd=nFact">취재N팩트</a></li> 
+          <li><a href="#">인스턴트 비디오</a></li> 
+         </ul> </li> 
+        <li class="menu03 m_tit YTN_CSA_nav2_10"><a href="http://www.ytn.co.kr/program/program_main.html" onmouseover="gnbSubMenu('sub2_3');">프로그램</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_3"> 
+          <li><a href="http://www.ytn.co.kr/program/program_intro.php?s_mcd=0481" target="_top" class="navinews1">국민신문고</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list_0301.html" target="_top" class="navinews1">현장생중계</a></li> 
+          <li><a href="http://www.ytn.co.kr/news/news_night_list.php" target="_top" class="navinews1">뉴스나이트</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list_0465.html" target="_top" class="navinews1">YTN 스페셜</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0496" target="_top" class="navinews1">시사 안드로메다</a></li> 
+          <li><a href="http://www.ytn.co.kr/global_korean/global_main.html" target="_top" class="navinews1">글로벌코리안</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list.php?s_mcd=0492" target="_top" class="navinews1">구석구석 코리아</a></li> 
+          <li><a href="http://www.ytn.co.kr/program/program_list_0948.html" target="_top" class="navinews1">뉴스인</a></li> 
+         </ul> </li> 
+        <li class="menu04 m_tit YTN_CSA_nav2_11"><a href="http://www.ytn.co.kr/photo/photo_main.html" onmouseover="gnbSubMenu('sub2_4');">연예ㆍ스타일</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_4"> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_1406.html">방송</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_1408.html">음악</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_1407.html">영화</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_0122.html">패션&amp;뷰티</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/photo_list_gallery.html">포토</a></li> 
+          <li><a href="http://www.ytn.co.kr/news/news_list_0109.html">SNS세상</a></li> 
+         </ul> </li> 
+        <li class="menu05 m_tit YTN_CSA_nav2_12" onmouseover="gnbSubMenu('sub2_5');"><a href="http://www.ytn.co.kr/photo/sports_main.html">스포츠</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_5"> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9901.html">야구</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9902.html">축구</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9903.html">골프</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9904.html">농구&amp;배구</a></li> 
+          <li><a href="http://www.ytn.co.kr/photo/sports_list_9905.html">스포츠종합</a></li> 
+          <li><span class="blind"><a href="http://spoon.ytn.co.kr/" target="_blank"><img src="http://www.ytn.co.kr/img/comm/spoon_logo_r1.png" alt="스푼피드로고" width="90px" height="16px" style="display:inline-block;    padding-top: 3px; "></a></span></li> 
+         </ul> </li> 
+        <li class="menu06 m_tit YTN_CSA_nav2_14"><a href="http://www.ytn.co.kr/health_life/health_main.html" onmouseover="gnbSubMenu('sub2_6');">헬스+라이프</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_6"> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_011801.html">health+life</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_011901.html">건강</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0127.html">리더스 인터뷰</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0123.html">인물</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0124.html">칼럼</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0125.html">정보광장</a></li> 
+         </ul> </li> 
+        <li class="menu07 m_tit YTN_CSA_nav2_15"><a href="http://www.ytn.co.kr/health_life/leisure_main.html" onmouseover="gnbSubMenu('sub2_7');">레저</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_7"> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_012001.html">낚시</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0126.html">여행</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/health_life_list_0128.html">건축&amp;디자인</a></li> 
+          <li><a href="http://www.ytn.co.kr/health_life/fortune_list.html">운세</a></li> 
+         </ul> </li> 
+        <li class="menu08 m_tit YTN_CSA_nav2_9"><a href="http://mj.ytn.co.kr/" onmouseover="gnbSubMenu('sub2_8');">제보영상</a> 
+         <ul class="sub_gnb_box" style="display:none" id="sub2_8"> 
+          <li><a href="http://mj.ytn.co.kr/mj/mj_write_main.php">제보하기</a></li> 
+          <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=popular">제보랭킹</a></li> 
+          <li><a href="http://mj.ytn.co.kr/mj/mj_list.php?mode=theme">최신제보</a></li> 
+          <li><a href="http://www.ytn.co.kr/video/video_list_jebo.html">제보영상</a></li> 
+         </ul> </li> 
+       </ul> 
+      </div>
+      <!-- //left_menu --> 
+      <div class="clearfix"></div> 
+      <div class="right_menu"> 
+       <ul class="m_menu"> 
+        <li class="r_menu01 YTN_CSA_nav2_1"><a href="http://www.ytn.co.kr/_hd/hd_live.html"><img src="../img/main/icon_live.gif" alt="라이브"></a></li> 
+        <li class="r_menu02 m_tit YTN_CSA_nav2_13"><a href="http://www.ytn.co.kr/service/schedule.php">편성표</a></li> 
+        <li class="r_menu03 m_tit YTN_CSA_nav2_16"><a href="http://www.ytn.co.kr/program/replay_main.php">다시보기</a></li> 
+        <li class="r_menu04"><a href="#" onclick="$('#search2').show();return false;"><img src="../img/main/icon_search.gif" alt="서치"></a> 
+         <!-- 돋보기 클릭 시, 나타나는 검색 바 --> 
+         <div class="search" id="search2" style="display:none"> 
+          <form name="web_search" target="_top" action="http://www.ytn.co.kr/search/?" method="post" onsubmit="return search(this)"> 
+           <fieldset> 
+            <legend>통합검색</legend> 
+            <span class="InputOutline"> <input name="q" id="q" type="text" placeholder="검색어를 입력하세요." class="searchTerm" title="검색어 입력" style="position:relative"> <img src="../img/main/close_btn.jpg" alt="닫기버튼" style="display:inline-block; position:absolute; right:5px; top:4px" onclick="$('.search').hide();"></span> 
+            <input type="submit" alt="검색" title="검색" class="searchBtn" value="검색"> 
+           </fieldset> 
+          </form> 
+         </div>
+         <!-- //검색바 여기까지 --> </li> 
+       </ul> 
+      </div>
+      <!-- //right_menu --> 
+     </div>
+     <!-- //navi_clone --> 
+    </div>
+    <!-- //header --> 
+    <script>				
+	var mouseStatus = false;
+	var gnbMode = 0;
+	
+	for(i=1;i<9;i++){ 
+		//$('#sub_'+i).mouseout(function () {mouseStatus=false;});
+		//$('#sub_'+i).mouseover(function () {mouseStatus=true;});
+		$('#sub2_'+i).mouseout(function () {mouseStatus=false;});
+		$('#sub2_'+i).mouseover(function () {mouseStatus=true;});
+	}
+	
+	gnbSubMenu=function(id){  
+		$(".sub_gnb_box").removeClass('fadeIn animated_3').hide();
+		$('.m_tit').removeClass( 'm_tit_hover menu01_hover' );
+		if(gnbMode) $("#sub_bar").hide();
+
+		if(id){
+			mouseStatus = true;
+			if(gnbMode) $("#sub_bar").show();
+			$('#'+id).show().addClass('fadeIn animated_3');
+			$('.menu0'+id.substr(-1)).addClass( 'm_tit_hover menu01_hover' );
+		}
+	}
+	doPlay=function(){ if(!mouseStatus && gnbMode) gnbSubMenu(''); }
+
+	// GNB 메뉴 재처리
+	function chkSubMenu()
+	{
+		$("#sub_bar").hide();
+
+		var mcd = "1406";
+		var hcd = "";
+		var url = "/photo/photo_list.php?s_mcd=1406";
+		var HealthLife = ["0118","011801","0119","011901","1411","0123","0124","0125","0127"];
+		var Leisure = ["012001","0120","0126","0128","0121","012202"];
+
+		if(mcd == "0111" || mcd == "0101" || mcd == "0102" || mcd == "0103" || mcd == "0115" ||  mcd == "0104" ||  mcd == "0105" || mcd == "0106" || mcd == "hancut" || mcd == "rColumn" || mcd == "dJournalism"){
+			gnbSubMenu('sub_1'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("video") != -1){
+			gnbSubMenu('sub_2'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("health_main") != -1 || $.inArray(mcd, HealthLife) != -1){
+			gnbSubMenu('sub_6'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("leisure_main") != -1 || $.inArray(mcd, Leisure) != -1){
+			gnbSubMenu('sub_7'); $('#n'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("weather") != -1){
+			gnbSubMenu('sub_1'); $('#nweather').addClass('sub_hover');
+		}
+		else if(url.indexOf("program") != -1 || url.indexOf("_pn") != -1 || url.indexOf("global_korean") != -1 || mcd == "anchorReport"){
+			gnbSubMenu('sub_3'); $('#program_'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("sports") != -1){
+			gnbSubMenu('sub_5'); $('#photo_'+mcd).addClass('sub_hover');
+		}
+		else if(url.indexOf("photo") != -1 || url.indexOf("_sn") != -1 || mcd == "0109" || mcd == "0122" || mcd == "photo_gallery"){
+			if((mcd=="0107" && (hcd=="02" || hcd=="03")) || mcd=="1401") { gnbSubMenu('sub_5'); $('#photo_9901').addClass('sub_hover'); }
+			else if((mcd=="0107" && (hcd=="04" || hcd=="05")) || mcd=="1402") { gnbSubMenu('sub_5'); $('#photo_9902').addClass('sub_hover'); }
+			else if(mcd=="0107" && hcd=="07") { gnbSubMenu('sub_5'); $('#photo_9903').addClass('sub_hover'); }
+			else if(mcd=="0107" && (hcd=="08" || hcd=="09" || hcd=="06")) { gnbSubMenu('sub_5'); $('#photo_9904').addClass('sub_hover'); }
+			else if((mcd=="0107" && hcd=="01") || mcd=="1403") { gnbSubMenu('sub_5'); $('#photo_9905').addClass('sub_hover'); }
+			else { gnbSubMenu('sub_4'); $('#photo_'+mcd).addClass('sub_hover'); }
+		}
+		else if(url.indexOf("yreport") != -1 || url.indexOf("mj") != -1){
+			gnbSubMenu('sub_8'); $('#'+mcd).addClass('sub_hover');
+		}
+		else{
+			gnbSubMenu('sub_1');
+		}
+	}
+
+	$('.right_menu').mouseover(function(e){ if(!$(this).attr('onmouseover') && gnbMode) gnbSubMenu(''); });
+	$('.total_bg').mouseover(function(e){ if(!$(this).attr('onmouseover') && gnbMode) gnbSubMenu(''); });
+
+	window.setInterval("doPlay()", "1000");
+
+	$(window).scroll(function()			// 스크롤바가 움직일 때 마다 콜백 한다
+	{
+		if($(window).scrollTop()<246 && gnbMode){			//기본 GNB 노출
+			$("#clone").hide();
+			gnbMode = 0;
+			chkSubMenu();	// GNB 메뉴 재처리
+		}else if($(window).scrollTop()>246 && !gnbMode){	//심플 GNB 노출
+			$('.m_tit').removeClass( 'm_tit_hover menu01_hover' );
+			$("#clone").css('z-index', '99999');
+			$("#clone").show();
+			gnbMode = 1;
+		}
+
+		//console.log('p='+$(window).scrollTop());
+	});
+</script> 
+   </div> 
+   <script type="text/javascript">gnbSubMenu('sub_4'); $('#photo_1406').addClass('sub_hover');</script> 
+   <div id="wrap"> 
+    <!-- czone (width:980)--> 
+    <div id="czone"> 
+     <!-- zone1 (width:650) --> 
+     <div id="zone1"> 
+      <!--카테고리 제목--> 
+      <h4 class="newstitle_h4">연예·스타일 &gt; 방송</h4> 
+      <!-- 리스트 --> 
+      <div id="ytn_list_v2014"> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051751110191"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051751110191_k.jpg" alt="구하라 측 &quot;수면장애 등 치료차 병원 방문...지라시 사실NO&quot; (공식)" style="max-width:150px; max-height: 150px;" title="구하라 측 &quot;수면장애 등 치료차 병원 방문...지라시 사실NO&quot; (공식)"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051751110191">구하라 측 "수면장애 등 치료차 병원 방문...지라시 사실NO" (공식)</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051751110191">그룹 카라 출신 배우 구하라가 수면장애와 소화불량 치료 등을 위해 병원을 방문했다. 소속사 측은 앞서 불거진 '지라지' 내용은 부인했다. 구하라의 소속사 콘텐츠와이 측은 5일 YTN Star에 "확인해 보니 구하라가 그동안 수면장애, 소화불량으로 치료를 받아왔다"면서 "어제 처방 받은 약을 먹고 조금 이상이 생겨서 정확한 상태를 체크하기 위해 병...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:51] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051748012743"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536135637_36007700_1.jpg" alt="‘아는 와이프’ 지성X한지민, 직진 고백 후폭풍 시작…눈물의 재회 " style="max-width:150px; max-height: 150px;" title="‘아는 와이프’ 지성X한지민, 직진 고백 후폭풍 시작…눈물의 재회 "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051748012743">‘아는 와이프’ 지성X한지민, 직진 고백 후폭풍 시작…눈물의 재회 </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051748012743"> ‘아는 와이프’ 지성을 향한 한지민의 직진 고백 후폭풍을 예고했다. 5일 tvN 수목드라마 ‘아는 와이프’(양희승 극본, 이상엽 연출) 측은 차주혁(지성)과 서우진(한지민)의 심상치 않은 눈물 속 만남을 공개했다. 과거와 현재가 복잡하게 얽혀있던 주혁과 우진의 관계는 ‘아는 와이프’ 10회의 반전 엔딩을 기점으로 전환점을 맞았다. 주혁은 자신의 선...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:48] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051739014611"><img src="http://image.ytn.co.kr/osen/2018/09/20180613_1528856644_20748500_1.jpg" alt="구하라 측 &quot;약 부작용으로 현재 입원 中…지라시 사실무근&quot; " style="max-width:150px; max-height: 150px;" title="구하라 측 &quot;약 부작용으로 현재 입원 中…지라시 사실무근&quot; "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051739014611">구하라 측 "약 부작용으로 현재 입원 中…지라시 사실무근" </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051739014611"> 말 그대로 사람 잡는 지라시다. 배우 구하라가 소화불량, 수면장애로 병원을 찾은 것이 잘못된 선택을 했다는 루머로 변질됐다. 5일 증권가 정보지에 이른바 찌라시에 따르면 이날 구하라는 강남 모 병원의 응급실에 실려왔다. 약을 다량으로 먹어 병원에 급히 입원했다는 것. 5일 소속사 관계자는 TV리포트에 "지라시 내용은 사실 무근"이라며 "구...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:39] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051727020764"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536135810_93876600_1.jpg" alt="‘이상한 나라의 며느리’ 日 며느리 시즈카는 콩나물 해장국을 대령할까 " style="max-width:150px; max-height: 150px;" title="‘이상한 나라의 며느리’ 日 며느리 시즈카는 콩나물 해장국을 대령할까 "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051727020764">‘이상한 나라의 며느리’ 日 며느리 시즈카는 콩나물 해장국을 대령할까 </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051727020764"> MBC 교양 프로그램 '이상한 나라의 며느리'의 오늘(5일) 방송에서는 시댁 곡성에 방문한 지형-형균 부부의 특별한 이벤트와 시어머니와 쇼핑에 나선 며느리 신소이, 그리고 시누이 방문 그 다음날을 맞이한 시즈카의 모습이 그려진다. 첫 이야기로는 곡성 시댁에 방문한 지영-형균의 모습이 담긴다. 오랜만에 시댁에 방문한 초보 며느리 민지영은 시아...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:27] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051712022694"><img src="http://image.ytn.co.kr/osen/2018/09/20180613_1528856694_98535500_1.jpg" alt="구하라 측 &quot;지라시 사실 아냐, 수면장애·소화불량 치료&quot; " style="max-width:150px; max-height: 150px;" title="구하라 측 &quot;지라시 사실 아냐, 수면장애·소화불량 치료&quot; "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051712022694">구하라 측 "지라시 사실 아냐, 수면장애·소화불량 치료" </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051712022694"> 가수 구하라가 약을 먹고 실려왔다는 지라시에 대한 입장을 밝혔다. 5일 소속사 관계자는 TV리포트에 "지라시 내용은 전혀 사실이 아니다"라고 부인하며 "구하라가 수면장애와 소화불량 증세가 있어서 치료는 받아왔었다. 처방 받은 약을 먹고 정확한 상태를 체크하러 병원에 갔을 뿐"이라고 말했다. 앞서 이날 오후 구하라가 약을 먹고 서울의 한 병...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:12] 
+        </dd> 
+       </dl> 
+       <!-- 플러스 이벤트
+<div class="YTN_CSA_eventgisabnner" style="float:left;margin-left:0;padding-top:5px;padding-bottom:10px;margin-top:-6px; display: none;" id="eventBanner">
+<a title="YTN 이벤트" target="_top"><img width="676" alt="YTN 이벤트"/></a>
+</div>
+
+<script type="text/javascript">
+$(function(){
+try{
+  var _bnrMain, _bnrSub, _link, _taget;
+  var r=Math.floor(Math.random()*2);
+  var dt = new Date();
+
+  if( (new Date(2016,11,30,9,00,00))<dt ){
+    _bnrMain='/img/banner/bnr_vote_data_main.jpg';
+    _bnrSub='/img/banner/bnr_vote_data_sub.jpg';
+    _link='/issue/issue_list.php?tidx=2065&tcd1=03';
+    _taget='_self';
+  }else{
+  }
+
+	if( _bnrMain && _bnrSub && _link ){
+	  if( $("#CmAdContent, #yreport_vod").length ) $("#eventBanner img").attr('src',_bnrMain).attr('width','676');	//기사보기
+	  else $("#eventBanner img").attr('src',_bnrSub).attr('width','650');		//리스트
+	  $("#eventBanner a").attr('href',_link).attr('target',_taget); //링크
+	  $("#eventBanner").css("display", "inline-block");
+	}else{
+	  $('.YTN_CSA_YEvent').hide();
+	  $('#eventBanner').hide();
+	}
+}catch (err){ 	}
+});
+</script>
+<!--// 플러스 이벤트 --> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051709019024"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536134766_10371600_1.jpg" alt="&quot;미모의 정상&quot; 고아라, 더욱 싱그러운 매력" style="max-width:150px; max-height: 150px;" title="&quot;미모의 정상&quot; 고아라, 더욱 싱그러운 매력"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051709019024">"미모의 정상" 고아라, 더욱 싱그러운 매력</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051709019024"> 배우 고아라가 일상을 공유했다. 고아라는 5일 오후 자신의 인스타그램에 "그랜드캐년, 비도 오고 멋있다"는 글과 함께 사진을 올렸다. 사진 속 고아라는 바람을 맞고 있다. 싱그러운 미모가 더욱 돋보인다. 이를 본 네티즌들은 "상큼하다" "너무 예뻐요" "공기 좋아 보인다" "즐거우시길" 등 반응을 보이고 있다. 김풀잎 기자 leaf@tvreport.co...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:09] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051703020180"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536134445_16500700_1.jpg" alt="'살림하는 남자들2' 결혼식 앞둔 김동현, 아버지와 갈등 폭발하나" style="max-width:150px; max-height: 150px;" title="'살림하는 남자들2' 결혼식 앞둔 김동현, 아버지와 갈등 폭발하나"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051703020180">'살림하는 남자들2' 결혼식 앞둔 김동현, 아버지와 갈등 폭발하나</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051703020180"> ‘링 위의 야수’ 김동현이 결정장애 끝판왕에 등극했다. 오는 5일 KBS2 ‘살림하는 남자들 시즌2’(이하 ‘살림남2′)에서는 김동현이 결혼식을 한달도 채 남겨두지 않은 상황임에도 여전히 갈팡질팡하는 모습이 그려진다. 김동현, 송하율 커플은 혼인신고까지 마치고 이제 결혼식만을 앞두고 있는 상황. 이들의 결혼 준비를 돕기 위해 김동현의 부모님까지...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 17:03] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051651013987"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536133635_62645400_1.jpg" alt="양예원 &quot;힘들고 무서웠다&quot;…2차 공판 피해자 증언+재판 공개 요청 " style="max-width:150px; max-height: 150px;" title="양예원 &quot;힘들고 무서웠다&quot;…2차 공판 피해자 증언+재판 공개 요청 "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051651013987">양예원 "힘들고 무서웠다"…2차 공판 피해자 증언+재판 공개 요청 </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051651013987"> 유튜버 양예원이 '비공개촬영회'에서 노출사진을 강요받고 성추행 당했다고 폭로한 이후 처음으로 대중 앞에 섰다. 양예원은 "힘들고 무서웠다"고 심경을 고백했다. 양예원은 5일 서울 마포구 서울서부지법 형사4단독 이진용 판사 심리로 열린 최 모(45) 씨의 강제추행 등 혐의 사건 제1회 공판기일에 피해자 자격으로 참석했다. 이날 재판에서 피고인...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:51] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051645021692"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536133125_61149400_1.jpg" alt="‘어서와’ 美 아빠들, 딸 위해 남대문 시장 찾았다…폭염 이긴 ♥" style="max-width:150px; max-height: 150px;" title="‘어서와’ 美 아빠들, 딸 위해 남대문 시장 찾았다…폭염 이긴 ♥"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051645021692">‘어서와’ 美 아빠들, 딸 위해 남대문 시장 찾았다…폭염 이긴 ♥</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051645021692"> ‘어서와 한국은 처음이지?’ 미국 친구들이 남대문시장을 방문했다. 6일 방영할 MBC에브리원 ‘어서와 한국은 처음이지?’에서는 딸의 선물을 사기 위한 미국 아빠들의 남대문시장 쇼핑기가 방송된다. 이날 방송에서 미국 3인방은 남대문시장을 방문했다. 여행계획 회의에서부터 브라이언은 “남대문시장에는 정말 모든 게 있대. 음식, 쇼핑, 사람들 다 있...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:45] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051643419062"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051643419062_k.jpg" alt="SBS 新예능 '무확행', 13일 첫방송...'해투3'·'도시어부'와 대결 " style="max-width:150px; max-height: 150px;" title="SBS 新예능 '무확행', 13일 첫방송...'해투3'·'도시어부'와 대결 "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051643419062">SBS 新예능 '무확행', 13일 첫방송...'해투3'·'도시어부'와 대결 </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051643419062">서장훈, 이상민, 김준호, 그리고 이상엽이 SBS 신규 예능 프로그램 '무확행'으로 뭉친다. '무확행 - 무모하지만 확실한 행복'은 국민 돌싱남 3인방과 이상엽이 남들 눈에는 무모해 보이지만 각자 자신의 잃어버린 행복을 찾아 떠나는 生처절 리얼 로드쇼다. 집에 누구도 들이지 않는 대한민국 대표 깔끔남 서장훈과 더러움엔 한없이 너그러운(?) 뼈...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:43] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051621015990"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536131901_92012700_1.jpg" alt="'친애하는 판사님께' 윤시윤vs윤시윤, 일촉즉발 '멱살잡이'" style="max-width:150px; max-height: 150px;" title="'친애하는 판사님께' 윤시윤vs윤시윤, 일촉즉발 '멱살잡이'"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051621015990">'친애하는 판사님께' 윤시윤vs윤시윤, 일촉즉발 '멱살잡이'</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051621015990"> 윤시윤과 윤시윤이 제대로 맞붙는다. SBS 수목드라마 ‘친애하는 판사님께’(천성일 극본, 부성철 연출)는 쌍둥이 형제의 이야기다. 얼굴은 같지만 성격도, 마음도 전혀 다른 형제. 이들의 운명이 교묘히 바뀌면서 벌어지는 이야기가 ‘친애하는 판사님께’ 스토리의 주요 줄기이다. 쌍둥이 형 한수호(윤시윤 분)는 한 번도 양형 기준에서 벗어난 판결을 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:21] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051616130813"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051616130813_k.jpg" alt=" &quot;中에서 중식=숙원&quot;...'현지에서' 대가 이연복 의미있는 도전(종합)" style="max-width:150px; max-height: 150px;" title=" &quot;中에서 중식=숙원&quot;...'현지에서' 대가 이연복 의미있는 도전(종합)"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051616130813"> "中에서 중식=숙원"...'현지에서' 대가 이연복 의미있는 도전(종합)</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051616130813">'중식 대가' 이연복 셰프의 손맛, 중국 본토에서도 통할까? tvN '현지에서 먹힐까?’가 중국편으로 돌아왔다. 중화요리 마스터라 불리는 이연복 셰프가 푸드트럭의 사장이자 메인 셰프로 출격한다. 짜장면으로 대표되는 한국식 중화요리가 현지에서 어떤 반응을 얻을지 기대를 모으는 가운데, 배우 김강우, 개그맨 허경환, 배우 서은수가 푸드트럭 크...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:16] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051612507128"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051612507128_k.jpg" alt="'현지에서' 서은수 &quot;현지 촬영중 손님에게 깜짝 대시 받아&quot; " style="max-width:150px; max-height: 150px;" title="'현지에서' 서은수 &quot;현지 촬영중 손님에게 깜짝 대시 받아&quot; "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051612507128">'현지에서' 서은수 "현지 촬영중 손님에게 깜짝 대시 받아" </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051612507128">배우 서은수가 '현지에서 먹힐까?' 중국편 촬영 중 깜짝 대시를 받은 일화를 공개했다. 서은수는 5일 오후 3시 서울 마포구 상암동 한 호텔에서 열린 tvN '현지에서 먹힐까?' 중국편 제작발표회에서 "중국인 손님에게 프러포즈를 받았다"고 말해 눈길을 모았다. 그는 "한 아이가 꽃을 주길래 파는건 줄 알고 '안 산다'고 말했는데, 알고보니 어떤 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:12] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051612022926"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536130667_52477300_1.jpg" alt="'현지에서 먹힐까?' 중국에서 한국식 중화요리 팔기…대박날까? " style="max-width:150px; max-height: 150px;" title="'현지에서 먹힐까?' 중국에서 한국식 중화요리 팔기…대박날까? "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051612022926">'현지에서 먹힐까?' 중국에서 한국식 중화요리 팔기…대박날까? </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051612022926"> 중국에서 한국식 중화요리를 파는 예능 프로그램. 대박날까? 5일 오후 3시 서울 상암 스탠포드호텔에서 tvN '현지에서 먹힐까? 중국편' 제작발표회가 열렸다. 이우형 PD, 이연복 셰프, 김강우, 서은수가 참석했다. '현지에서 먹힐까?'는 중화요리 마스터 이연복 셰프를 필두로 배우 김강우, 개그맨 허경환, 배우 서은수가 한국식 중화요리로 중국 본...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:12] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051606019207"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536130997_43943400_1.jpg" alt="'일억개의 별' 정소민X박성웅, '반전 甲' 오누이 케미…현실 남매 포스" style="max-width:150px; max-height: 150px;" title="'일억개의 별' 정소민X박성웅, '반전 甲' 오누이 케미…현실 남매 포스"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051606019207">'일억개의 별' 정소민X박성웅, '반전 甲' 오누이 케미…현실 남매 포스</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051606019207"> ‘하늘에서 내리는 일억개의 별’ 정소민, 박성웅이 ‘반전 매력 甲’ 남매로 변신한다. ‘동생’ 정소민에게 옴짝달싹 못 하는 ‘오빠’ 박성웅의 모습만으로 앞으로 펼쳐질 남매 케미에 대한 기대감을 급상승시키고 있다. 오는 10월 3일 첫 방송하는 tvN ‘하늘에서 내리는 일억개의 별’(유제원 연출/송혜진 극본/스튜디오드래곤 제작)(이하. ‘일억개의 별’)은...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:06] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051603019788"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536130829_54386400_1.jpg" alt="손성훈 측근 &quot;가정폭력 혐의 유죄 인정&quot;" style="max-width:150px; max-height: 150px;" title="손성훈 측근 &quot;가정폭력 혐의 유죄 인정&quot;"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051603019788">손성훈 측근 "가정폭력 혐의 유죄 인정"</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051603019788"> 록 그룹 시나위 보컬 멤버로 활동했던 가수 손성훈이 가정 폭력 및 특수재물 손괴 혐의 등으로 집행유예를 선고받았다. 서울중앙지방법원 형사3단독은 지난 8월 30일 손성훈의 상해 및 특수재물손괴 혐의 1심 선고에서 징역 10월에 집행유예 2년을 선고하고 사회봉사 160시간을 명령했다. 손성훈은 지난 2016년 아내 A씨와 재혼한 이후 2017년 A씨를 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 16:03] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051557021505"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536130376_70817100_1.jpg" alt="'현지에서 먹힐까?' 서은수 &quot;中손님으로부터 꽃 프러포즈 받아…감동받았다&quot; 고백" style="max-width:150px; max-height: 150px;" title="'현지에서 먹힐까?' 서은수 &quot;中손님으로부터 꽃 프러포즈 받아…감동받았다&quot; 고백"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051557021505">'현지에서 먹힐까?' 서은수 "中손님으로부터 꽃 프러포즈 받아…감동받았다" 고백</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051557021505"> 서은수가 중국 현지에서 프러포즈를 받은 에피소드를 공개했다. 5일 오후 3시 서울 상암 스탠포드호텔에서 tvN '현지에서 먹힐까? 중국편' 제작발표회가 열렸다. 이우형 PD, 이연복 셰프, 김강우, 서은수가 참석했다. '현지에서 먹힐까?'는 중화요리 마스터 이연복 셰프를 필두로 배우 김강우, 개그맨 허경환, 배우 서은수가 한국식 중화요리로 중국...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:57] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051556209550"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051556209550_k.jpg" alt="'현지에서'PD &quot;홍석천=사장vs이연복=셰프...관전포인트 달라&quot;  " style="max-width:150px; max-height: 150px;" title="'현지에서'PD &quot;홍석천=사장vs이연복=셰프...관전포인트 달라&quot;  "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051556209550">'현지에서'PD "홍석천=사장vs이연복=셰프...관전포인트 달라" </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051556209550">'현지에서 먹힐까?' 이우형 PD가 홍석천과 이연복의 차이점을 소개했다. 이우형 PD는 5일 오후 3시 서울 마포구 상암동 한 호텔에서 열린 tvN '현지에서 먹힐까?' 중국편 제작발표회에서 시즌 1 태국편과 이번 시즌 2의 차이점에 대해 "확실히 준전문가인 홍석천 사장님과 전문가인 이연복 셰프님과 차이가 있다"고 밝혔다. 이어 "지난 시즌1에서는...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:56] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051547463845"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051547463845_k.jpg" alt="'현지에서' 김강우 &quot;첫 예능...이연복 셰프 요리 먹고파 선택&quot; " style="max-width:150px; max-height: 150px;" title="'현지에서' 김강우 &quot;첫 예능...이연복 셰프 요리 먹고파 선택&quot; "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051547463845">'현지에서' 김강우 "첫 예능...이연복 셰프 요리 먹고파 선택" </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051547463845">배우 김강우가 예능에 첫 도전하는 소감을 밝혔다. 김강우는 5일 오후 3시 서울 마포구 상암동 한 호텔에서 열린 tvN '현지에서 먹힐까?' 중국편 제작발표회에서 "예능 신인이자 예능 귀염둥이다. 많은 기대 바란다"라고 말문을 열었다. 이번 프로그램으로 처음 예능에 도전한 그는 "사실 이연복 셰프의 음식을 정말 먹고 싶었는데 레스토랑 예약...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:47] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051545023541"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536127836_60646300_1.jpg" alt="‘복수노트2’ 김지영, 모태 귀요미의 정석…폭풍성장 좋은 예" style="max-width:150px; max-height: 150px;" title="‘복수노트2’ 김지영, 모태 귀요미의 정석…폭풍성장 좋은 예"></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051545023541">‘복수노트2’ 김지영, 모태 귀요미의 정석…폭풍성장 좋은 예</a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051545023541"> 아역 배우 김지영이 ‘모태 귀요미’다운 사랑스러움을 발산했다. 5일 sidusHQ 측은 XtvN 드라마 ‘복수노트 시즌2’(한상임 김종선 심미선 극본, 오승열 서재주 연출) 촬영장에서 다채로운 표정으로 깜찍한 모습을 선보이고 있는 김지영의 사진을 여러 장 공개했다. 공개된 사진 속에서 김지영은 눈을 찡긋하며 미소를 짓기도 하고, 행복한 기분을 가득 ...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:45] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/0117_201809051544509773"><img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051544509773_k.jpg" alt="'현지에서' 이연복 셰프 &quot;中에서 中음식 팔기...숙원이었다&quot; " style="max-width:150px; max-height: 150px;" title="'현지에서' 이연복 셰프 &quot;中에서 中음식 팔기...숙원이었다&quot; "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/0117_201809051544509773">'현지에서' 이연복 셰프 "中에서 中음식 팔기...숙원이었다" </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/0117_201809051544509773">이연복 셰프가 '현지에서 먹힐까?' 출연을 결심한 계기를 밝혔다. 이연복 셰프는 5일 오후 3시 서울 마포구 상암동 한 호텔에서 열린 tvN '현지에서 먹힐까?' 중국편 제작발표회에서 "섭외 제안을 받고 '올게 왔구나' 싶었다"고 말했다. 이날 출연 계기를 묻는 질문에 이연복 셰프는 "중국에서 중국 음식을 한 번쯤 해보고 싶다고 생각했다"라며 "...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:44] 
+        </dd> 
+       </dl> 
+       <dl class="photo_list"> 
+        <dd class="vertical">
+         <p class="ph"><a href="/_sn/1406_201809051542019438"><img src="http://image.ytn.co.kr/osen/2018/09/20180905_1536129447_07292000_1.jpg" alt="장혁과 복싱이 만났다…‘배드파파’ 40대 가장 위한 인생드라마 될까 " style="max-width:150px; max-height: 150px;" title="장혁과 복싱이 만났다…‘배드파파’ 40대 가장 위한 인생드라마 될까 "></a></p>
+        </dd> 
+        <dt>
+         <a href="/_sn/1406_201809051542019438">장혁과 복싱이 만났다…‘배드파파’ 40대 가장 위한 인생드라마 될까 </a>
+        </dt> 
+        <dd class="text">
+         <a href="/_sn/1406_201809051542019438"> 장혁이 복싱선수로 돌아온다. 장혁과 액션, 그리고 가족애의 만남, 벌써부터 명품 드라마를 예고한다. 오늘(5일) 오후 서울 강남구 삼성동 코엑스 B홀에서 MBC 새 드라마 ‘배드파파’의 작품설명회를 진행했다. 이 자리에는 진창규 PD와 배우 장혁이 참석했다. 먼저 진창규 PD는 “나의 첫 단독 연출 작품”이라며 “이 작품의 시나리오를 받았을 때부터...</a>
+        </dd> 
+        <dd class="date">
+         [2018-09-05 15:42] 
+        </dd> 
+       </dl> 
+      </div> 
+      <!-- 리스트 --> 
+      <!-- paging --> 
+      <div id="paging">
+       <a href="#" class="now">1</a>&nbsp;
+       <a href="photo_list.php?page=2&amp;s_mcd=1406">2</a>&nbsp;
+       <a href="photo_list.php?page=3&amp;s_mcd=1406">3</a>&nbsp;
+       <a href="photo_list.php?page=4&amp;s_mcd=1406">4</a>&nbsp;
+       <a href="photo_list.php?page=5&amp;s_mcd=1406">5</a>&nbsp;
+       <a href="photo_list.php?page=6&amp;s_mcd=1406">6</a>&nbsp;
+       <a href="photo_list.php?page=7&amp;s_mcd=1406">7</a>&nbsp;
+       <a href="photo_list.php?page=8&amp;s_mcd=1406">8</a>&nbsp;
+       <a href="photo_list.php?page=9&amp;s_mcd=1406">9</a>&nbsp;
+       <a href="photo_list.php?page=10&amp;s_mcd=1406">10</a>&nbsp; 
+       <a href="photo_list.php?page=11&amp;s_mcd=1406" class="next"> <img src="/img/comm/btn_arrowright.gif" width="25" height="25" alt="다음"></a> 
+      </div> 
+     </div> 
+     <!-- zone1 (width:650) --> 
+     <!-- zone2 (width:300) --> 
+     <div id="zone2">
+      <div id="aside"> 
+       <div class="adright_box"> 
+        <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script> 
+        <div id="crt-ede8bf04" style="width:300px;height:250px;"></div> 
+        <script type="text/javascript">
+var Criteo = Criteo || {};
+Criteo.events = Criteo.events || [];
+Criteo.events.push(function() {
+    Criteo.DisplayAd({
+        "zoneid": 331755,
+        "containerid": "crt-ede8bf04"
+    });
+});
+</script> 
+       </div> 
+       <ul class="many_news_tab"> 
+        <li onmouseover="tabChange('popnews')" id="tab_popnews"><img src="/img/comm/tit_popnews_on.gif" alt="인기 뉴스"></li> 
+        <li onmouseover="tabChange('popent')" id="tab_popent"><img src="/img/comm/tit_popent_off.gif" alt="인기 연예·스포츠"></li> 
+       </ul> 
+       <div class="main_manybox YTN_CSA_popularnews"> 
+        <div id="area_popnews"> 
+         <ul> 
+          <li class="num01"><a href="http://www.ytn.co.kr/_ln/0104_201809051430064428_001" target="_top"><b>中 폭우에 홍수로 마을 침수, 세탁기 속에 아이 넣어 구조한 소...</b></a></li> 
+          <li class="num02"><a href="http://www.ytn.co.kr/_ln/0107_201809051545064870_001" target="_top">손흥민 "코스타리카전 때는 이승우 세리머니 방해 안 해"</a></li> 
+          <li class="num03"><a href="http://www.ytn.co.kr/_ln/0115_201809051731539116_001" target="_top"><b>반려견과 산책 20대 여성 무차별 폭행당해</b></a></li> 
+          <li class="num04"><a href="http://www.ytn.co.kr/_ln/0104_201809051720061642_001" target="_top">안약에 독극물 넣어 서서히 남편 살해한 50대 여성</a></li> 
+          <li class="num05"><a href="http://www.ytn.co.kr/_ln/0103_201809051718164377_001" target="_top"><b>[영상] "야산 200억 도박장"...조폭·도박꾼 덜미</b></a></li> 
+          <li class="num06"><a href="http://www.ytn.co.kr/_ln/0104_201809051550068637_001" target="_top">초강력 태풍에도 일하다가...도로에 쓰러진 日 피자 배달원</a></li> 
+          <li class="num07"><a href="http://www.ytn.co.kr/_ln/0101_201809051601068141_001" target="_top"><b>김성태 "文 워킹으로 절규...출산 주도로 전환해야"</b></a></li> 
+          <li class="num08"><a href="http://www.ytn.co.kr/_ln/0101_201809051328183422_001" target="_top">김성태 "공공기관 지방 이전, 서울 황폐화 의도"</a></li> 
+          <li class="num09"><a href="http://www.ytn.co.kr/_ln/0104_201809051450061462_001" target="_top"><b>교통사고 현장에서 실종된 반려견과 19일만에 재회</b></a></li> 
+          <li class="num10 last"><a href="http://www.ytn.co.kr/_ln/0107_201809041050073817_001" target="_top">박항서, 한국전서 베트남 실점 당시 웃음 보인 이유 </a></li> 
+         </ul> 
+        </div> 
+        <div id="area_popent" style="display:none"> 
+         <ul> 
+          <li class="num01"><a href="http://www.ytn.co.kr/_sn/0117_201809051629171086_001" target="_top"><b>시나위 출신 손성훈, 가정폭력 혐의로 집행유예 2년</b></a></li> 
+          <li class="num02"><a href="http://www.ytn.co.kr/_sn/0117_201809051432142920_001" target="_top">박정아, 결혼 2년만에 임신 "내년 봄 출산 예정...태교 전념" </a></li> 
+          <li class="num03"><a href="http://www.ytn.co.kr/_sn/1412_201809042124013931_001" target="_top"><b>‘1대100’ 예은 “힘 안들이고 10kg 감량, 굶는 다이어트X”</b></a></li> 
+          <li class="num04"><a href="http://www.ytn.co.kr/_sn/0117_201809051751110191_001" target="_top">구하라 측 "수면장애 등 치료차 병원 방문...지라시 사실NO" (...</a></li> 
+          <li class="num05"><a href="http://www.ytn.co.kr/_sn/0117_201809050828077058_001" target="_top"><b>한동근, 음주운전 적발..."깊이 반성, 활동 중단하고 자숙"(공...</b></a></li> 
+          <li class="num06"><a href="http://www.ytn.co.kr/_sn/1412_201809041721014610_001" target="_top"> 원빈과 결혼→출산..이나영 BIFF서 6년만에 활동복귀</a></li> 
+          <li class="num07"><a href="http://www.ytn.co.kr/_sn/0117_201809051118174718_001" target="_top"><b>채림 "아이 걷기 직전...8년만의 복귀, 기쁘고 설레" 근황 공개</b></a></li> 
+          <li class="num08"><a href="http://www.ytn.co.kr/_sn/0117_201809051612507128_001" target="_top">'현지에서' 서은수 "현지 촬영중 손님에게 깜짝 대시 받아" </a></li> 
+          <li class="num09"><a href="http://www.ytn.co.kr/_sn/1406_201809040933017350_001" target="_top"><b> 성룡 19세 딸, 12살 연상 여자친구와 이미 약혼</b></a></li> 
+          <li class="num10 last"><a href="http://www.ytn.co.kr/_sn/1412_201809042324016090_001" target="_top">‘문제적 남자’ 아이콘 비아이 “月 저작권료 외제차 두 대 값”</a></li> 
+         </ul> 
+        </div> 
+       </div> 
+       <script type="text/javascript">
+var now_id = 'popnews';
+function tabChange(id){
+	if(id==now_id) return;
+	$("#tab_"+now_id).children("img").attr("src","/img/comm/tit_"+now_id+"_off.gif");
+	$("#tab_"+id).children("img").attr("src","/img/comm/tit_"+id+"_on.gif");
+	$("#area_"+id).show();
+	$("#area_"+now_id).hide();
+	now_id = id;
+}
+</script>
+       <div class="sub_adbox2"> 
+        <!-- <div class="head"><div class="title"><img src="../img/comm/tit_prmclick.gif" alt="프리미엄클릭"/></div> -->
+        <div class="ico_station">
+         <img src="../img/comm/ico_ad.gif" alt="">
+        </div>
+        <!-- </div> --> 
+        <div class="ad_zone"> 
+         <iframe width="280" height="285" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=00M3&amp;out=iframe" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe> 
+        </div> 
+       </div> 
+       <!--오늘의제보--> 
+       <div class="sub_right_box YTN_CSA_jebo2d"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_jebo.gif" alt="오늘의제보">
+         </div> 
+         <div class="more">
+          <a href="http://mj.ytn.co.kr/mj/mj_main.html"><img src="../img/news/bt_more.gif" alt="더보기"></a>
+         </div>
+         <a href="http://mj.ytn.co.kr/mj/mj_main.html"> </a>
+        </div>
+        <a href="http://mj.ytn.co.kr/mj/mj_main.html"> </a>
+        <dl class="sub_right_list">
+         <a href="http://mj.ytn.co.kr/mj/mj_main.html"> 
+          <dt>
+           <noscript>
+            <img src="http://image.ytn.co.kr/yreport/2018/09/105995_117592_480.jpg" width="298" height="168" alt="[신기한자연] 제주시 상공에 제비떼 수십...">
+           </noscript>
+           <a href="http://mj.ytn.co.kr/mj/mj_view.php?mode=theme&amp;key=105995" target="_top"><img data-src="http://image.ytn.co.kr/yreport/2018/09/105995_117592_480.jpg" width="298" height="168" alt="[신기한자연] 제주시 상공에 제비떼 수십..."></a>
+          </dt></a> 
+         <dd>
+          <a href="http://mj.ytn.co.kr/mj/mj_view.php?mode=theme&amp;key=105995" target="_top">[신기한자연] 제주시 상공에 제비떼 수십...</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--//오늘의제보-->
+       <div class="sub_adbox2"> 
+        <div class="ico_station"> 
+         <img src="../img/comm/ico_ad.gif">
+        </div> 
+        <div class="ad_zone"> 
+         <iframe src="http://adv.imadrep.co.kr/2766_01.html" width="300" height="192" frameborder="0" scrolling="no"></iframe> 
+         <!-- 애드인 광고--> 
+         <br>
+         <br> 
+         <iframe width="300" height="200" src="http://ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=02SD&amp;out=iframe" allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe> 
+         <!-- 애드인 광고--> 
+        </div> 
+       </div> 
+       <!-- 오늘의연예 --> 
+       <div class="sub_right_box YTN_CSA_entertain"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_enter.gif" alt="오늘의연예">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0903/201809031920095209_h.jpg" width="298" height="168" alt="방탄소년단 또 빌보드 1위…왜 '방탄 현상'인가">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_ln/0106_201809031920095209_002" target="_top"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0903/201809031920095209_h.jpg" width="298" height="168" alt="방탄소년단 또 빌보드 1위…왜 '방탄 현상'인가"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_ln/0106_201809031920095209_002" target="_top">방탄소년단 또 빌보드 1위…왜 '방탄 현상'인가</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--// 오늘의연예 --> 
+       <div class="adright_box"> 
+        <iframe name="AdRightBanner2" frameborder="0" width="300" height="250" scrolling="no" marginheight="0" marginwidth="0"></iframe> 
+        <script type="text/javascript">
+$(function(){
+	if(typeof(_u)=="undefined") var _u = "loc="+escape(document.URL)+"&ref="+escape(document.referrer);
+	$(".adright_box iframe[name='AdRightBanner2']").attr("src", "/inc_banner/AdServerChange.php?n=6&"+_u);
+});
+</script> 
+       </div>
+       <!-- 오늘의생활 --> 
+       <div class="sub_right_box YTN_CSA_D3"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_culture.gif" alt="오늘의생활">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0904/201809042201236436_h.jpg" width="298" height="168" alt="'시금치가 사라졌다'…추석 앞두고 농산물 가격 급등">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_ln/0102_201809042201236436_002" target="_top"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0904/201809042201236436_h.jpg" width="298" height="168" alt="'시금치가 사라졌다'…추석 앞두고 농산물 가격 급등"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_ln/0102_201809042201236436_002" target="_top">'시금치가 사라졌다'…추석 앞두고 농산물 가격 급등</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--// 오늘의생활 --> 
+       <div style="width:300px;height:230px;" id="piclick_300x230"> 
+        <script>var piclick = { api_key:'fa4aa687313ea975536478c99f7442a0', skin:'tie2', size:'300x230', vp:'mside', pbu:'', ad_id:'piclick_300x230' };</script> 
+        <script type="text/javascript" src="http://apis.piclick.me/v2/publish/banner/iframe.min.js"></script> 
+       </div>​​​
+       <div style="height:80px;margin:20px 0 20px 0;" id="fortuneBanner"> 
+        <a href="http://www.ytn.co.kr/health_life/fortune_list.html">
+         <noscript>
+          <img width="300" height="80" src="../img/comm/bnr_todayfortune.jpg" alt="오늘 나의 운세는">
+         </noscript><img width="300" height="80" data-src="../img/comm/bnr_todayfortune.jpg" alt="오늘 나의 운세는"></a> 
+       </div> 
+       <div class="sub_adbox2"> 
+        <div class="ico_station">
+         <img src="../img/comm/ico_ad.gif">
+        </div> 
+        <div class="ad_zone"> 
+         <iframe width="300" height="273" border="0" frameborder="0" scrolling="no" src="//adin.ad4980.kr/s/2015/04/22/z2120456363.html"></iframe> 
+        </div> 
+       </div>
+       <!--오늘의스포츠--> 
+       <div class="sub_right_box YTN_CSA_sport"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/tit_today_sport.gif" alt="오늘의스포츠">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809050235012144_h.jpg" width="298" height="168" alt="'영원한 챔피언' 이왕표, 재발 암 투병 중 별세…향년 64세">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_ln/0107_201809050235012144_002" target="_top"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0905/201809050235012144_h.jpg" width="298" height="168" alt="'영원한 챔피언' 이왕표, 재발 암 투병 중 별세…향년 64세"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_ln/0107_201809050235012144_002" target="_top">'영원한 챔피언' 이왕표, 재발 암 투병 중 별세…향년 64세</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--//오늘의스포츠-->
+       <div class="adright_box"> 
+        <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js" async="true"></script> 
+        <div id="crt-1208406" style="width:300px;height:250px;"></div> 
+        <script type="text/javascript">
+var Criteo = Criteo || {};
+Criteo.events = Criteo.events || [];
+Criteo.events.push(function() {
+    Criteo.DisplayAd({
+        "zoneid": 1208406,
+        "containerid": "crt-1208406"
+    });
+});
+</script> 
+       </div>
+       <!--패션&뷰티--> 
+       <div class="sub_right_box YTN_CSA_fashion_view"> 
+        <div class="tit_area"> 
+         <div class="title">
+          <img src="../img/news/side_tit06.gif" alt="패션&amp;뷰티">
+         </div> 
+         <div class="outlink">
+          <img src="../img/news/ico_ygkplus.gif" alt="YGK플러스">
+         </div> 
+        </div> 
+        <dl class="sub_right_list"> 
+         <dt>
+          <noscript>
+           <img src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051325102683_h.jpg" width="298" height="168" alt="‘연애의 참견 시즌2’ 주우재, ‘훈훈 그 자체’ 인증샷 공개">
+          </noscript>
+          <a href="http://www.ytn.co.kr/_sn/0122_201809051325102683_009"><img data-src="http://image.ytn.co.kr/general/jpg/2018/0905/201809051325102683_h.jpg" width="298" height="168" alt="‘연애의 참견 시즌2’ 주우재, ‘훈훈 그 자체’ 인증샷 공개"></a>
+         </dt> 
+         <dd>
+          <a href="http://www.ytn.co.kr/_sn/0122_201809051325102683_009">‘연애의 참견 시즌2’ 주우재, ‘훈훈 그 자체’ 인증샷 공개</a>
+         </dd> 
+        </dl> 
+       </div> 
+       <!--//패션&뷰티--> 
+      </div>
+     </div> 
+    </div> 
+    <!-- //czone (width:980)--> 
+    <!-- footer--> 
+    <script type="text/javascript" src="/_js/ytn2.min.js?v=20170407"></script> 
+    <!-- 윙배너 넣음 --> 
+    <!-- 우측 윙배너 --> 
+    <div id="leftWingBanner" style="position:absolute;top:200px;left:-132px;"> 
+     <iframe allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no" frameborder="0" width="120" height="600" title="우측윙배너"></iframe> 
+     <!-- <iframe width="122" height="254" border="0" frameborder="0" scrolling="no" title="우측하단윙배너" style="margin-top: 10px;"></iframe> --> 
+    </div> 
+    <script type="text/javascript">
+    (function(){
+	  $("#leftWingBanner iframe:eq(0)").attr("src", "http://adex.ednplus.com/xc/h/Fzf2tk5A");
+    })();
+    </script> 
+    <!-- 우측 윙배너 --> 
+    <!-- 좌측 윙배너 상단 120*220 --> 
+    <!-- //좌측 윙배너 상단 120*220 --> 
+    <!-- 좌측 상단 120*180 --> 
+    <div style="position:absolute;top:0px;right:-125px;"> 
+     <script language="javascript" src="http://nvapi.feeldmc.com/ad/p/in/v1_0/imp?slotid=stw_YTNpluscokr_17"></script> 
+    </div> 
+    <!-- //좌측 상단 120*180 --> 
+    <!-- 좌측 윙배너 --> 
+    <div id="rightWingBanner" style="position:absolute;top:200px;"> 
+     <iframe allowtransparency="true" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no" frameborder="0" width="120" height="600" title="좌측윙배너"></iframe> 
+     <!-- <iframe width="122" height="254" frameborder="0" scrolling="no" title="좌측하단윙배너" style="margin-top: 10px;"></iframe> --> 
+    </div> 
+    <script type="text/javascript">
+(function(){
+$("#rightWingBanner iframe:eq(0)").attr("src", "http://adex.ednplus.com/xc/h/FzmfbWPN");
+})();
+</script> 
+    <!-- //좌측 윙배너 --> 
+    <!-- //윙배너 넣음 --> 
+    <!-- TI광고 기사면만 : 기사면인지 확인하기 위해 dable:url 메타태그 사용 --> 
+    <script type="text/javascript">
+try { if($("#CmAdContent").length && $('meta[property="dable:url"]').attr('content').match(/[0-9]{18}/)){ document.write('<div style="position:absolute;top:383px;margin-left:680px;z-index:0; !important"><scri'+'pt type="text/javascr'+'ipt" src=\'/inc_banner/Ad_TI.js?v=20180406\'></scr'+'ipt></div>'); }    } catch (err) { }
+</script> 
+    <!--// TI광고 기사면만 --> 
+    <!-- // wrap --> 
+   </div>
+   <!-- //EBD YTN_main_2017, wrap --> 
+   <!-- 문단 중 이미지 광고 --> 
+   <script type="text/javascript">
+jQuery(document).ready(function() {
+    function n() {
+        var n;
+        if ($("#CmAdContent span").eq(1) || $("#CmAdContent span").eq(2)) {
+            var e = $("#CmAdContent span").eq(0).text().length
+              , t = $("#CmAdContent span").eq(1).text().length
+              , o = 0;
+            if ($("#CmAdContent span").eq(2) && (o = $("#CmAdContent span").eq(2).text().length),
+            183 > e && 183 > t && 183 > o)
+                return;
+            n = e > t && e > o ? $("#CmAdContent span").eq(0).find("br") : o > t ? $("#CmAdContent span").eq(2).find("br") : $("#CmAdContent span").eq(1).find("br")
+        } else {
+            if ($("#CmAdContent span").eq(0).text().length < 183) return;
+            n = $("#CmAdContent span").eq(0).find("br")
+        }
+        var s = n.length;
+        n.each(function(n) {
+			if(n == Math.abs(  Math.floor(s / 6) - 1 ) ){
+				$(this).after("<div id='hns_mask' class='hns_mask_div' style='width:260px;height:250px; float:right; text-align:right; z-index:1;'><iframe width='250' height='250' src='http://adex.ednplus.com/xc/h/7bUwK8fc' allowTransparency = 'true' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling='no' ></iframe></div>");
+			}
+        })
+    }
+    $("#CmAdContent").length && n();
+});
+</script> 
+   <!--// 문단 중 이미지 광고 --> 
+   <!-- footer_area  --> 
+   <div class="footer YTN_CSA_footer2"> 
+    <div class="information"> 
+     <ul class="info_text"> 
+      <li>회사소개 
+       <ul class="desc_info"> 
+        <li><a href="http://infor.ytn.co.kr/">YTN</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/sabo.php">YTN사보</a></li> 
+        <li><a href="http://radio.ytn.co.kr/company/ytnradio.php">YTN RADIO</a></li> 
+        <li><a href="http://dmb.ytn.co.kr/company/intro.php">YTN DMB</a></li> 
+        <li><a href="http://www.ytnplus.co.kr/">YTN PLUS</a></li> 
+       </ul> </li> 
+      <li>광고/비즈니스 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/business/tv_ad01.php">TV광고</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/online_ad.php">인터넷 모바일 광고</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/program_supply.php">방송 프로그램 공급</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/culture_biz.php">문화 사업 제휴</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/internetall01.php">인터넷 사업 제휴</a></li> 
+        <li><a href="http://www.ytn.co.kr/hiring_hall/info.html">YTN홀 대관 서비스</a></li> 
+       </ul> </li> 
+      <li>시청자센터 
+       <ul class="desc_info"> 
+        <!-- <li><a href="http://www.ytn.co.kr/community/ceo_candidate_question.php" style="display:inline_block; letter-spacing:-1px" target="_blank">사장공모 시청자질의</a></li> --> 
+        <li><a href="http://www.ytn.co.kr/community/opinion.php">시청자 의견</a></li> 
+        <li><a href="http://mj.ytn.co.kr/">시청자 제보</a></li> 
+        <li><a href="http://www.ytn.co.kr/program/program_list_0429.html">시청자의 눈</a></li> 
+        <!-- <li><a href="http://www.ytn.co.kr/business/program_sell.php">시청자 프로그램판매</a></li> --> 
+        <li><a href="http://www.ytn.co.kr/community/audience.php">시청자 위원회</a></li> 
+        <li><a href="http://www.ytn.co.kr/community/complain.php">고충처리인</a></li> 
+        <li><a href="http://www.ytn.co.kr/cleanytn/clean_info.php">사이버 감사실</a></li> 
+       </ul> </li> 
+      <li>인터넷 이용안내 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/service/sitemap.php">사이트맵</a></li> 
+        <li><a href="http://www.ytn.co.kr/community/newsletter.php">뉴스레터</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/help_01.php">인터넷이용 도움말</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/live_help.php">생방송 이용안내</a></li> 
+       </ul> </li> 
+      <li>모바일 이용안내 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/service/ytn_app_mobile.php">모바일 App</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/ytn_app_tablet.php">태블릿 App</a></li> 
+        <li><a href="http://www.ytn.co.kr/service/ytn_web_mobile.php">모바일 Web</a></li> 
+        <li><a href="http://www.ytn.co.kr/sms/ytnnewssms.php">긴급뉴스 SMS</a></li> 
+       </ul> </li> 
+      <li>콘텐츠판매 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/business/program_sell.php">영상자료</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/sound_sell.php">음원</a></li> 
+        <li><a href="http://www.ytn.co.kr/business/digitalcont.php">뉴스공급</a></li> 
+       </ul> </li> 
+      <li>알립니다 
+       <ul class="desc_info"> 
+        <li><a href="http://www.ytn.co.kr/community/notice.php">공지사항</a></li> 
+        <li><a href="http://www.ytn.co.kr/community/recruit.php">채용공고</a></li> 
+        <li><a href="http://tour.ytn.co.kr/#infor" target="_blank">견학신청</a></li> 
+        <li><a href="https://harassment.ytn.co.kr/" target="_blank">성폭력 신고센터</a></li> 
+        <li><a href="http://www.ytn.co.kr/award/index.html" target="_blank">수상작품</a></li> 
+       </ul> </li> 
+     </ul> 
+     <span class="clearfix"></span> 
+     <ul class="second_line"> 
+      <li><a href="http://www.ytn.co.kr/service/contract.php">이용약관</a><span class="b_bar">|</span></li> 
+      <li><a href="http://www.ytn.co.kr/service/privacy.php">개인정보처리방침</a><span class="b_bar">|</span></li> 
+      <li><a href="http://www.ytn.co.kr/service/youth_Protection_policy.php">청소년보호정책</a><span class="b_bar">|</span></li> 
+      <li><a href="http://www.ytn.co.kr/service/policy.php">기사배열 기본방침</a><span class="b_bar">|</span></li> 
+      <li style="margin-right:0px !important"><a href="http://www.ytn.co.kr/service/aboutus.php">위치/연락처</a></li> 
+     </ul> 
+    </div>
+    <!-- //information --> 
+    <span class="clearfix"></span> 
+    <div class="copyright"> 
+     <div class="copyright_box"> 
+      <ul class="company"> 
+       <li><b>㈜와이티엔</b>&nbsp;&nbsp;서울특별시 마포구 상암산로 76(상암동) <span class="bar">|</span> 대표자: 최남수 <span class="bar">|</span> 대표전화: 02-398-8000 <span class="bar">|</span> 팩스: 02-398-8129 <span class="bar">|</span> 사업자등록번호: 102-81-32883</li> 
+       <li><b>㈜와이티엔플러스</b>&nbsp;&amp;nbsp서울특별시 마포구 상암산로 76(상암동) <span class="bar">|</span> 상호:YTN <span class="bar">|</span> 대표전화: 02-2160-7400 <span class="bar">|</span> 등록번호:서울 자000465 <span class="bar">|</span> 등록일자: 2010.05.11 <span class="bar">|</span> 발행일자: 1999.06.01 <br> <span style="display:inline-block; padding-left:104px">대표자: 호준석</span> <span class="bar">|</span> 기사배열 책임자: 홍상희 <span class="bar">|</span> 청소년보호책임자: 윤미영 
+        <!-- <span class="bar">|</span> <a href="/service/policy.php" style="color:#888;font-weight:bold;">[기사배열 기본방침]</a> --></li> 
+      </ul> 
+      <p class="copyright_bottom">Copyright (c) YTN &amp; YTN PLUS All rights reserved. <br> 모든 컨텐츠(기사)는 저작권법의 보호를 받은바, 무단 전재·복사·배포를 금합니다.</p> 
+     </div>
+     <!-- //copyright_box --> 
+    </div>
+    <!-- //copyright --> 
+   </div>
+   <!-- //footer --> 
+   <script type="text/javascript" src="/_js/agentChk.js"></script> 
+   <script>
+	if(agentChk()=="MOBILE"){
+		document.write("<div style='width:980px;margin:0 auto;text-align:center;padding:20px 0;'><a href='"+makeMobileUrl()+"'><img src='/img/comm/bt_mobilever.gif' alt='모바일 버전 보기' style='display:inline-block'></a></div>");
+	}
+
+if(window.console!=undefined){setTimeout(console.log.bind(console,"%cYTN & YTN PLUS","font:8em Arial;color:#00aeef;font-weight:bold"),0);setTimeout(console.log.bind(console,"%c  모든 컨텐츠(기사)는 저작권법의 보호를 받은바, 무단 전재·복사·배포를 금합니다.","font:2em sans-serif;color:#333;"),0);}
+</script> 
+   <script type="text/javascript">
+//<![CDATA[
+if(IE && document.getElementById('startPage'))
+{
+	document.getElementById('startPage').onclick = function(){
+		try {
+			var sp = document.getElementById('startPage');
+			sp.style.behavior = 'url(#default#homepage)';
+			sp.setHomePage('/');
+			try {
+				ct.call(sp)}
+			catch(e) {
+			}
+		}
+		catch (e) {
+		}
+	}
+}
+
+// 풋터 회사소개 레이어
+var fo = "a";
+function footerView(n)
+{
+	if(fo) document.getElementById("map3_"+fo).style.display = "none";
+	document.getElementById("map3_"+n).style.display = "block";
+	fo = n;
+}
+
+function footerHidden()
+{
+	document.getElementById("map3_"+fo).style.display = "none";
+}
+
+$(document).ready(function(){
+	sec = 1;
+	boxStartLeftWingPosition = 200;
+	boxStartRightWingPosition = 200;
+
+	// 배너 기본위치
+	$("#leftWingBanner").stop().animate({"top":boxStartLeftWingPosition+"px"},sec);
+	$("#rightWingBanner").stop().animate({"top":boxStartRightWingPosition+"px"},sec);
+
+	$(window).scroll(function() // 스크롤바가 움직일 때 마다 콜백 한다
+	{
+		leftWingPosition = $(window).scrollTop() - boxStartLeftWingPosition;
+		rightWingPosition = $(window).scrollTop() - boxStartRightWingPosition;
+
+		// TOP스크롤 높이에 따른 배너위치 조정
+		if($(window).scrollTop()<168)
+		{
+			$("#leftWingBanner").stop().animate({"top":boxStartLeftWingPosition+"px"},sec);
+			$("#rightWingBanner").stop().animate({"top":boxStartRightWingPosition+"px"},sec);
+		}
+		else
+		{
+			$("#leftWingBanner").stop().animate({"top":leftWingPosition+"px"},sec);
+			$("#rightWingBanner").stop().animate({"top":rightWingPosition+"px"},sec);
+		}
+	});
+});
+//]]>
+</script>   
+  </div>
+ </body>
+</html>

@@ -7,7 +7,7 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 public class TestClient {
-
+//우와와
 	public static void main(String[] args) {
 		Socket sk = null;
 		PrintStream out = null;
